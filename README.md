@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vadim Bema A.K.A Deathronik
+- 👋 Hi, I’m Vadim Bema, A.K.A Deathronik
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS and ReduxJS
+- 🌱 And I’m currently learning ReactJS and ReduxJS
 - 📫 How to reach me - Telegram: @Deathronik, email: bemavadim@gmail.com
