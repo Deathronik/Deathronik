@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vadim, A.K.A Deathronik
-- 👀 I’m interested in Web development
-- 🌱 And I’m currently learning ReactJS and NodeJS
+- 👀 I’m interested in Full Stack and Blockchain development
+- 🌱 And I’m currently learning ReactJS, NodeJs, Python
 - 📫 How to reach me - Telegram: https://t.me/Deathronik
